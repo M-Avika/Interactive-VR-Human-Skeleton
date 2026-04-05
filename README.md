@@ -17,5 +17,9 @@ How the Project Works
 - A C# script detects mouse hover or click using raycasting.
 - The corresponding bone name and function are displayed on the UI panel.
 
-
+Current Progress
+- Skeleton model integrated in Unity
+- Initial bone interaction implemented
+- Information added for multiple bones
+- Feature development ongoing
 
